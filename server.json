@@ -15,22 +15,6 @@
       "category": "Alimentação",
       "price": 59,
       "createdAt": "2024-10-31T00:17:12.593Z"
-    },
-    {
-      "description": "curso sobre como vender curso",
-      "price": 1000,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2024-11-02T20:59:27.663Z",
-      "id": 3
-    },
-    {
-      "description": "teste",
-      "price": 123123,
-      "category": "rteste",
-      "type": "outcome",
-      "createdAt": "2024-11-02T21:29:16.696Z",
-      "id": 4
     }
   ]
 }
